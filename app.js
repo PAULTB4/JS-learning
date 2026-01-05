@@ -1,1 +1,1 @@
-import {} from "./04-ejercicios/05.js"
+import {} from "./04-ejercicios/10.js"
